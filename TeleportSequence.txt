@@ -1,0 +1,44 @@
+teleportationT (Khufu)
+01. Outside Tourist Entrance
+02. Inside Tourist Entrance
+03. Al-Ma'mun Forced Entry
+04. Quadrivium
+05. Queen's Chamber
+06. Queen's Chamber South Air Shaft
+07. Queen's Chamber North Air Shaft
+08. Grand Gallery
+09. Ante Chamber
+10. King's Chamber
+11. Relieving Chambers
+12. king's Chamber South Air Shaft
+13. king's Chamber North Air Shaft
+14. Grotto
+15. Subterranean Chamber
+16. Descending Passage (fallen slab)
+17. Descending Passage (swivel door)
+18. Khufu missing capstone
+19. Khufu chevron
+ 
+teleportationY (Khafre)
+01. Outside Tourist Entrance
+02. Inside Tourist Entrance
+03. Subterranean Horizontal passage
+04. Lower Chamber 
+05. Burial Chamber Slant passage
+06. Upper Chamber
+07. Explorer Entrance
+08. Upper Entrance
+09. Burial Chamber Horizontal passage
+10. Pyramid Apex
+
+teleportationU (Menkaure)
+01. Outside Tourist Entrance
+02. Inside Tourist Entrance
+03. Panelled Chamber
+04. Antechamber
+05. Upper Corridor above lower corridor
+06. End of Upper Corridor 
+07. False Sarcophagus
+08. Burial Chamber
+
+
